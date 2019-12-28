@@ -82,13 +82,10 @@ The fully connected network has
 
 *Classification Report to check Precision, Recall and F1 Score*
 
-The Model seem to performing good enough with score of 84%. Increase in the Embedding, GRU and dense layers would help in getting better results
+The Model seem to performing good enough with score of 80%. Increase in the Embedding, GRU and dense layers would help in getting better results
 
-<img src="Images/Classification_Report.JPG" width="400">
 
-**Random Validation on Test Data**
 
-<img src="Images/prediction.JPG" width="400">
 
 
 **Save the Model & Weights**
